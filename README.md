@@ -133,9 +133,9 @@ jupyter notebook Agentic_RAG.ipynb
 
 ## 👥 Author
 
-**Your Name**
+**Saurabh Kumar**
 Generative AI Engineer
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/saurabh-kumar-7a92a616b/) | [GitHub](https://github.com/Raj-saurabh)
 
 ---
 
