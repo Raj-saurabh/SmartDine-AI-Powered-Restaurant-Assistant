@@ -1,0 +1,9 @@
+langchain-community
+langchain-openai==0.2.12
+unstructured 
+faiss-cpu 
+langgraph
+networkx
+pandas
+openpyxl
+openai==1.57.4
